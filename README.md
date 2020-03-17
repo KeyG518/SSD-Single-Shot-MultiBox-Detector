@@ -1,5 +1,5 @@
 # SSD-Single-Shot-MultiBox-Detector
-![alt text](/images/Screen Shot 2020-03-17 at 4.30.23 PM.png)
-![alt text](/images/Screen Shot 2020-03-17 at 4.30.29 PM.png)
+![alt text](/images/Screen%20Shot%202020-03-17%20at%204.30.23%20PM.png)
+![alt text](/images/Screen%20Shot%202020-03-17%20at%204.30.29%20PM.png)
 
 Still on construction
